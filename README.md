@@ -2,7 +2,7 @@
 
 **🚀 AI & Machine Learning Enthusiast | 📊 Data Science & NLP Practitioner | 🤖 LLM & Deep Learning Explorer**
 
-I'm passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing (NLP). I enjoy building intelligent systems, working with LLMs, deep learning, and real-time data processing, and continuously learning about cutting-edge AI advancements.
+I'm passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing. I enjoy building intelligent systems, working with LLMs, deep learning, and real-time data processing, and continuously learning about cutting-edge AI advancements.
 
 💡 What I'm Working On:
 
