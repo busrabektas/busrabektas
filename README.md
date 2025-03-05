@@ -1,4 +1,4 @@
-## 👋 Hi I am Büşra!
+## 👋 Hi, I am Büşra!
 
 **🚀 AI & Machine Learning Enthusiast | 📊 Data Science & NLP Practitioner | 🤖 LLM & Deep Learning Explorer**
 
