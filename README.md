@@ -4,14 +4,6 @@
 
 I'm passionate about Artificial Intelligence, Machine Learning, and Natural Language Processing. I enjoy building intelligent systems, working with LLMs, deep learning, and real-time data processing, and continuously learning about cutting-edge AI advancements.
 
-💡 What I'm Working On:
-
-- LLMs & NLP – Fine-tuning and optimizing large language models
-- Deep Learning – Experimenting with various transformer-based architectures and advanced AI models
-- AI Applications – Developing AI-powered assistants and real-time analytics
-- Big Data & Streaming – Implementing scalable solutions with Kafka, FastAPI, SQL, and Docker
-
-
 💻 Always eager to collaborate on AI & ML projects! 🚀
 
 
